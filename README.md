@@ -1,2 +1,2 @@
-# COMP269---Computa-o-Gr-fica
+# COMP269_ComputacaoGrafica
 Repositório de computação gráfica
